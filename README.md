@@ -18,6 +18,8 @@
             + Pycharm
             + vs code
             + google colab
+            + kaggle notebook
+            + jupyter notebook
         + R
     
     + 주요 업무
