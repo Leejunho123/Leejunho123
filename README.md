@@ -6,13 +6,18 @@
             + 통계학과 + 수학과 + 컴퓨터공학과 연계로 빅데이터 인재 양성
         + 프로젝트 : https://github.com/Leejunho123/Project_2019
     
-    + 5G기반 스마트 웰니스 의료기기 인공지능 로봇틱스 / 한국it교육원 (2020.8~)
+    + 5G기반 스마트 웰니스 의료기기 인공지능 로봇틱스 / 한국it교육원 (2020.8~2020.03.17)
         + 국가지원 기업맞춤 교육 수강중 
         + 이미지 전처리, 라즈베리파이3, 머신러닝
         + 프로젝트 포함
         + 상세 설명
             + https://github.com/Leejunho123/5G_project
 
+    + 신라시스템 연구혁신팀 연구원 (2021.03.18~)
+        + 전자정부 프레임워크
+        + AA(Application Architecture)
+        + Eclipse, Xml, Java, Jsp
+    
     + 주요 언어
         + Python
             + Pycharm
