@@ -33,10 +33,12 @@
             + 이미지
         + EDA
         + 통계적 분석, 머신러닝
+        + EgovFramework (공부 중)
 
     + 사용한 서버
         + firebase
         + mongoDB
+        + mariaDB
 
 
 <!--
