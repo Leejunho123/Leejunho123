@@ -15,8 +15,8 @@
 
     + 신라시스템 연구혁신팀 연구원 (2021.03.18~)
         + 전자정부 프레임워크
-        + AA(Application Architecture)
-        + Eclipse, Xml, Java, Jsp
+        + Java 
+        + Eclipse, Spring, 프론트엔드&백엔드
     
     + 주요 언어
         + Python
