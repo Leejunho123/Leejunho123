@@ -26,6 +26,9 @@
             + kaggle notebook
             + jupyter notebook
         + R
+        + JAVA
+            + Spring
+            + Egovframwork
     
     + 주요 업무
         + 데이터 전처리
@@ -33,9 +36,11 @@
             + 이미지
         + EDA
         + 통계적 분석, 머신러닝
-        + EgovFramework (공부 중)
+        + EgovFramework 기반 MVC Design 설계
+        + Oracle, MySql DB와의 통신
+        + RestApi 기반 api 구현
 
-    + 사용한 서버
+    + 사용한 DB
         + firebase
         + mongoDB
         + mariaDB
